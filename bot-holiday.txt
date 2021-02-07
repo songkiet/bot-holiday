@@ -1,9 +1,6 @@
 2020-01-01	วันขึ้นปีใหม่	New Year’s Day
 2020-02-10	ชดเชยวันมาฆบูชา(วันเสาร์ที่ 8 กุมภาพันธ์ 2563)	Substitution for Makha Bucha Day(Saturday 8th February 2020)
 2020-04-06	วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราชและวันที่ระลึกมหาจักรีบรมราชวงศ์	Chakri Memorial Day
-2020-04-13	วันสงกรานต์ (ยกเลิก)	Songkran Festival (cancelled)
-2020-04-14	วันสงกรานต์ (ยกเลิก)	Songkran Festival (cancelled)
-2020-04-15	วันสงกรานต์ (ยกเลิก)	Songkran Festival (cancelled)
 2020-05-01	วันแรงงานแห่งชาติ	National Labour Day
 2020-05-04	วันฉัตรมงคล	Coronation Day
 2020-05-06	วันวิสาขบูชา	Wisakha Bucha Day
@@ -37,7 +34,6 @@
 2021-09-24	วันหยุดพิเศษ (เพิ่มเติม)	Additional special holiday (added)
 2021-10-13	วันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร	H.M. King Bhumibol Adulyadej The Great Memorial Day
 2021-10-22	ชดเชยวันปิยมหาราช(วันเสาร์ที่ 23 ตุลาคม 2564) (เพิ่มเติม)	Substitution for Chulalongkorn Day(Saturday 23rd October 2021) (added)
-2021-10-25	ชดเชยวันปิยมหาราช(วันเสาร์ที่ 23 ตุลาคม 2564) (ยกเลิก)	Substitution for Chulalongkorn Day(Saturday 23rd October 2021) (cancelled)
 2021-12-06	ชดเชยวันคล้ายวันพระบรมราชสมภพของพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตรวันชาติ และวันพ่อแห่งชาติ(วันอาทิตย์ที่ 5 ธันวาคม 2564)	Substitution for H.M. King Bhumibol AdulyadejThe Great’s Birthday/ National Day / Father’s Day(Sunday 5th December 2021)
 2021-12-10	วันรัฐธรรมนูญ	Constitution Day
 2021-12-31	วันสิ้นปี	New Year’s Eve
