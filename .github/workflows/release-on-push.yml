@@ -1,12 +1,12 @@
-# This is a basic workflow to help you get started with Actions
+name: release-on-push
 
-name: CI
-
-# Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
+  # Triggers the workflow on push or pull request events but only for the main branch and some files.
   push:
     branches: [ main ]
+    paths:
+    - 'bot-holiday*.txt'
+    - '.github/workflows/release-on-push.yml'
   pull_request:
     branches: [ main ]
 
