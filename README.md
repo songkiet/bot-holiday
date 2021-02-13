@@ -22,7 +22,7 @@
 
 ## วิธีเพิ่มปฏิทิน
 
-**ตัวเลือก 1**
+**ตัวเลือก 1 (เฉพาะบน PC เท่านั้น)**
 1. เปิด [Link นี่](https://calendar.google.com/calendar/u/0?cid=Y3VqdW5wY2hjcG12bWxscDRxdHBndjZjbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 2. จะมี Popup ขึ้นมา ก็กดปุ่ม Add
 
