@@ -18,9 +18,16 @@
 
 ทุกครั้งที่มีการเปลี่ยนแปลงวันหยุดธนาคาร GitHub Actions จะทำการออก Release ใหม่เลย เลข Version จะแค่เพิ่ม +1 ที่ตำแหน่ง minor ไปเรื่อย ๆ
 
-# Public Google Calendar
+# Public Google Calendar (BOT Holidays)
 
-Coming soon...
+**วิธีเพิ่มปฏิทิน**
+
+- เข้าไป [ที่นี่](https://calendar.google.com/calendar/u/0/r/settings/addbyurl)
+- กรอกที่ช่อง URL of calendar ว่า
+  ```
+  https://calendar.google.com/calendar/ical/cujunpchcpmvmllp4qtpgv6cng%40group.calendar.google.com/public/basic.ics
+  ```
+ - กดปุ่ม Add calendar
 
 # Google Apps Script
 **(Private Project)**
