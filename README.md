@@ -20,14 +20,20 @@
 
 # Public Google Calendar (BOT Holidays)
 
-**วิธีเพิ่มปฏิทิน**
+## วิธีเพิ่มปฏิทิน
 
-- เข้าไป [ที่นี่](https://calendar.google.com/calendar/u/0/r/settings/addbyurl)
-- กรอกที่ช่อง URL of calendar ว่า
+**ตัวเลือก 1**
+1. เปิด [Link นี่](https://calendar.google.com/calendar/u/0?cid=Y3VqdW5wY2hjcG12bWxscDRxdHBndjZjbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+2. จะมี Popup ขึ้นมา ก็กดปุ่ม Add
+
+**ตัวเลือก 2**
+1. เข้าไป [ที่นี่](https://calendar.google.com/calendar/u/0/r/settings/addbyurl)
+2. กรอกที่ช่อง URL of calendar ว่า
   ```
   https://calendar.google.com/calendar/ical/cujunpchcpmvmllp4qtpgv6cng%40group.calendar.google.com/public/basic.ics
   ```
- - กดปุ่ม Add calendar
+
+3. กดปุ่ม Add calendar
 
 # Google Apps Script
 **(Private Project)**
