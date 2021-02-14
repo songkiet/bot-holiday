@@ -1,4 +1,4 @@
-# bot-holiday
+# BOT Holiday
 
 เป็น DB ให้ [Apps Script](#google-apps-script) ทำงาน ส่งข้อมูลไปยัง [Google Calendar](#public-google-calendar-bot-holidays)
 
