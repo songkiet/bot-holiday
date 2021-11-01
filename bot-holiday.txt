@@ -37,3 +37,20 @@
 2021-12-06	ชดเชยวันคล้ายวันพระบรมราชสมภพของพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตรวันชาติ และวันพ่อแห่งชาติ(วันอาทิตย์ที่ 5 ธันวาคม 2564)	Substitution for H.M. King Bhumibol AdulyadejThe Great’s Birthday/ National Day / Father’s Day(Sunday 5th December 2021)
 2021-12-10	วันรัฐธรรมนูญ	Constitution Day
 2021-12-31	วันสิ้นปี	New Year’s Eve
+2022-01-03	ชดเชยวันขึ้นปีใหม่(วันเสาร์ที่ 1 มกราคม 2565)	Substitution for New Year's Day(Saturday 1st January 2022)
+2022-02-16	วันมาฆบูชา	Makha Bucha Day
+2022-04-06	วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราชและวันที่ระลึกมหาจักรีบรมราชวงศ์	Chakri Memorial Day
+2022-04-13	วันสงกรานต์	Songkran Festival
+2022-04-14	วันสงกรานต์	Songkran Festival
+2022-04-15	วันสงกรานต์	Songkran Festival
+2022-05-02	ชดเชยวันแรงงานแห่งชาติ(วันอาทิตย์ที่ 1 พฤษภาคม 2565)	Substitution for National Labour Day(Sunday 1st May 2022)
+2022-05-04	วันฉัตรมงคล	Coronation Day
+2022-05-16	ชดเชยวันวิสาขบูชา(วันอาทิตย์ที่ 15 พฤษภาคม 2565)	Substitution for Wisakha Bucha Day(Sunday 15th May 2022)
+2022-06-03	วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดาพัชรสุธาพิมลลักษณ พระบรมราชินี	H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday
+2022-07-13	วันอาสาฬหบูชา	Asarnha Bucha Day
+2022-07-28	วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว	H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday
+2022-08-12	วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถพระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ	H.M. Queen Sirikit The Queen Mother’s Birthday / Mother’s Day
+2022-10-13	วันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร	H.M. King Bhumibol Adulyadej The Great Memorial Day
+2022-10-24	ชดเชยวันปิยมหาราช(วันอาทิตย์ที่ 23 ตุลาคม 2565)	Substitution for Chulalongkorn Day(Sunday 23rd October 2022)
+2022-12-05	วันคล้ายวันพระบรมราชสมภพของพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตรวันชาติ และวันพ่อแห่งชาติ	H.M. King Bhumibol AdulyadejThe Great’s Birthday/ National Day / Father’s Day
+2022-12-12	ชดเชยวันรัฐธรรมนูญ(วันเสาร์ที่ 10 ธันวาคม 2565)	Substitution for Constitution Day(Saturday 10th December 2022)
