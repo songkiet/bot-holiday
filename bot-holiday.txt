@@ -24,6 +24,7 @@
 2023-04-14	วันสงกรานต์	Songkran Festival
 2023-05-01	วันแรงงานแห่งชาติ	National Labour Day
 2023-05-04	วันฉัตรมงคล	Coronation Day
+2023-05-05	วันหยุดพิเศษ (เพิ่มเติม)	Additional special holiday (added)
 2023-06-05	ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดาพัชรสุธาพิมลลักษณ พระบรมราชินี และวันวิสาขบูชา(วันเสาร์ที่ 3 มิถุนายน 2566)	Substitution for H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthdayand Wisakha Bucha Day(Saturday 3rd June 2023)
 2023-07-28	วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว	H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday
 2023-08-01	วันอาสาฬหบูชา	Asarnha Bucha Day
