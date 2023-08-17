@@ -33,3 +33,21 @@
 2023-10-23	วันปิยมหาราช	Chulalongkorn Day
 2023-12-05	วันคล้ายวันพระบรมราชสมภพพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ	H.M. King Bhumibol Adulyadej The Great’s Birthday/ National Day / Father’s Day
 2023-12-11	ชดเชยวันรัฐธรรมนูญ (วันอาทิตย์ที่ 10 ธันวาคม 2566)	Substitution for Constitution Day (Sunday 10th December 2023)
+2024-01-01	วันขึ้นปีใหม่	New Year’s Day
+2024-01-02	ชดเชยวันสิ้นปี (วันอาทิตย์ที่ 31 ธันวาคม 2566)	Substitution for New Year’s Eve (Sunday 31st December 2023)
+2024-02-26	ชดเชยวันมาฆบูชา (วันเสาร์ที่ 24 กุมภาพันธ์ 2567)	Substitution for Makha Bucha Day (Saturday 24th February 2024)
+2024-04-08	ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์ (วันเสาร์ที่ 6 เมษายน 2567)	Substitution for Chakri Memorial Day (Saturday 6th April 2024)
+2024-04-15	วันสงกรานต์	Songkran Festival
+2024-04-16	ชดเชยวันสงกรานต์ (วันเสาร์ที่ 13 เมษายน 2567 และ วันอาทิตย์ที่ 14 เมษายน 2567)	Substitution for Songkran Festival (Saturday 13th April 2024 and Sunday 14th April 2024)
+2024-05-01	วันแรงงานแห่งชาติ	National Labour Day
+2024-05-06	ชดเชยวันฉัตรมงคล (วันเสาร์ที่ 4 พฤษภาคม 2567)	Substitution for Coronation Day (Saturday 4th May 2024)
+2024-05-22	วันวิสาขบูชา	Visakha Bucha Day
+2024-06-03	วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี	H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday
+2024-07-22	ชดเชยวันอาสาฬหบูชา (วันเสาร์ที่ 20 กรกฎาคม 2567)	Substitution for Asarnha Bucha Day (Saturday 20th July 2024)
+2024-07-29	ชดเชยวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว (วันอาทิตย์ที่ 28 กรกฎาคม 2567)	Substitution for H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday (Sunday 28th July 2024)
+2024-08-12	วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ	H.M. Queen Sirikit The Queen Mother’s Birthday / Mother’s Day
+2024-10-14	ชดเชยวันคล้ายวันสวรรคตพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร (วันอาทิตย์ที่ 13 ตุลาคม 2567)	Substitution for H.M. King Bhumibol Adulyadej The Great Memorial Day (Sunday 13th October 2024)
+2024-10-23	วันปิยมหาราช	Chulalongkorn Day
+2024-12-05	วันคล้ายวันพระบรมราชสมภพพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ	H.M. King Bhumibol Adulyadej The Great’s Birthday / National Day / Father’s Day
+2024-12-10	วันรัฐธรรมนูญ	Constitution Day
+2024-12-31	วันสิ้นปี	New Year’s Eve
