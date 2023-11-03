@@ -33,8 +33,8 @@
 2023-10-23	วันปิยมหาราช	Chulalongkorn Day
 2023-12-05	วันคล้ายวันพระบรมราชสมภพพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ	H.M. King Bhumibol Adulyadej The Great’s Birthday/ National Day / Father’s Day
 2023-12-11	ชดเชยวันรัฐธรรมนูญ (วันอาทิตย์ที่ 10 ธันวาคม 2566)	Substitution for Constitution Day (Sunday 10th December 2023)
+2023-12-29	ชดเชยวันสิ้นปี (วันอาทิตย์ที่ 31 ธันวาคม 2566) (เพิ่มเติม)	Substitution for New Year’s Eve (Sunday 31st December 2023) (added)
 2024-01-01	วันขึ้นปีใหม่	New Year’s Day
-2024-01-02	ชดเชยวันสิ้นปี (วันอาทิตย์ที่ 31 ธันวาคม 2566)	Substitution for New Year’s Eve (Sunday 31st December 2023)
 2024-02-26	ชดเชยวันมาฆบูชา (วันเสาร์ที่ 24 กุมภาพันธ์ 2567)	Substitution for Makha Bucha Day (Saturday 24th February 2024)
 2024-04-08	ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์ (วันเสาร์ที่ 6 เมษายน 2567)	Substitution for Chakri Memorial Day (Saturday 6th April 2024)
 2024-04-15	วันสงกรานต์	Songkran Festival
