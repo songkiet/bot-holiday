@@ -18,6 +18,7 @@
 2024-01-01	วันขึ้นปีใหม่	New Year’s Day
 2024-02-26	ชดเชยวันมาฆบูชา (วันเสาร์ที่ 24 กุมภาพันธ์ 2567)	Substitution for Makha Bucha Day (Saturday 24th February 2024)
 2024-04-08	ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์ (วันเสาร์ที่ 6 เมษายน 2567)	Substitution for Chakri Memorial Day (Saturday 6th April 2024)
+2024-04-12	วันหยุดพิเศษ	Additional special holiday (added)
 2024-04-15	วันสงกรานต์	Songkran Festival
 2024-04-16	ชดเชยวันสงกรานต์ (วันเสาร์ที่ 13 เมษายน 2567 และ วันอาทิตย์ที่ 14 เมษายน 2567)	Substitution for Songkran Festival (Saturday 13th April 2024 and Sunday 14th April 2024)
 2024-05-01	วันแรงงานแห่งชาติ	National Labour Day
