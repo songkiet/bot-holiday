@@ -41,9 +41,11 @@
 2025-05-01	วันแรงงานแห่งชาติ	National Labour Day
 2025-05-05	ชดเชยวันฉัตรมงคล (วันอาทิตย์ที่ 4 พฤษภาคม 2568)	Substitution for Coronation Day (Sunday 4th May 2025)
 2025-05-12	ชดเชยวันวิสาขบูชา (วันอาทิตย์ที่ 11 พฤษภาคม 2568)	Substitution for Visakha Bucha Day (Sunday 11th May 2025)
+2025-06-02	วันหยุดพิเศษ	Additional special holiday (added)
 2025-06-03	วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี	H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday
 2025-07-10	วันอาสาฬหบูชา	Asarnha Bucha Day
 2025-07-28	วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว	H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday
+2025-08-11	วันหยุดพิเศษ	Additional special holiday (added)
 2025-08-12	วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ	H.M. Queen Sirikit the Queen Mother’s Birthday and Mother’s Day
 2025-10-13	วันนวมินทรมหาราช	H.M. King Bhumibol Adulyadej the Great Memorial Day
 2025-10-23	วันปิยมหาราช	H.M. King Chulalongkorn the Great Memorial Day
