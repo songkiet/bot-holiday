@@ -1,20 +1,3 @@
-2023-01-02	ชดเชยวันสิ้นปีและวันขึ้นปีใหม่ (วันเสาร์ที่ 31 ธันวาคม 2565 และวันอาทิตย์ที่ 1 มกราคม 2566)	Substitution for New Year's Eve and New Year's Day (Saturday 31st December 2022 and Sunday 1st January 2023)
-2023-03-06	วันมาฆบูชา	Makha Bucha Day
-2023-04-06	วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์	Chakri Memorial Day
-2023-04-13	วันสงกรานต์	Songkran Festival
-2023-04-14	วันสงกรานต์	Songkran Festival
-2023-05-01	วันแรงงานแห่งชาติ	National Labour Day
-2023-05-04	วันฉัตรมงคล	Coronation Day
-2023-05-05	วันหยุดพิเศษ (เพิ่มเติม)	Additional special holiday (added)
-2023-06-05	ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี และวันวิสาขบูชา (วันเสาร์ที่ 3 มิถุนายน 2566)	Substitution for H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday and Visakha Bucha Day (Saturday 3rd June 2023)
-2023-07-28	วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว	H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday
-2023-08-01	วันอาสาฬหบูชา	Asarnha Bucha Day
-2023-08-14	ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถพระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ (วันเสาร์ที่ 12 สิงหาคม 2566)	Substitution for H.M. Queen Sirikit The Queen Mother’s Birthday / Mother’s Day (Saturday 12th August 2023)
-2023-10-13	วันนวมินทรมหาราช	H.M. King Bhumibol Adulyadej The Great Memorial Day
-2023-10-23	วันปิยมหาราช	H.M. King Chulalongkorn The Great Memorial Day
-2023-12-05	วันคล้ายวันพระบรมราชสมภพพระบาทสมเด็จพระบรมชนกาธิเบศรมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ	H.M. King Bhumibol Adulyadej The Great’s Birthday/ National Day / Father’s Day
-2023-12-11	ชดเชยวันรัฐธรรมนูญ (วันอาทิตย์ที่ 10 ธันวาคม 2566)	Substitution for Constitution Day (Sunday 10th December 2023)
-2023-12-29	ชดเชยวันสิ้นปี (วันอาทิตย์ที่ 31 ธันวาคม 2566) (เพิ่มเติม)	Substitution for New Year’s Eve (Sunday 31st December 2023) (added)
 2024-01-01	วันขึ้นปีใหม่	New Year’s Day
 2024-02-26	ชดเชยวันมาฆบูชา (วันเสาร์ที่ 24 กุมภาพันธ์ 2567)	Substitution for Makha Bucha Day (Saturday 24th February 2024)
 2024-04-08	ชดเชยวันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์ (วันเสาร์ที่ 6 เมษายน 2567)	Substitution for Chakri Memorial Day (Saturday 6th April 2024)
