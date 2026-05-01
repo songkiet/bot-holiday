@@ -16,7 +16,7 @@
 2025-10-23	วันปิยมหาราช	H.M. King Chulalongkorn the Great Memorial Day
 2025-12-05	วันคล้ายวันพระบรมราชสมภพ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ	H.M. King Bhumibol Adulyadej the Great’s Birthday, National Day and Father’s Day
 2025-12-10	วันรัฐธรรมนูญ	Constitution Day
-2025-12-31	วันสิ้นปี	New Year’s Eve
+2025-12-31	วันสิ้นปี	New Year’s Eve.
 2026-01-01	วันขึ้นปีใหม่	New Year’s Day
 2026-01-02	วันหยุดทำการเพิ่มเป็นกรณีพิเศษ	Additional special holiday
 2026-03-03	วันมาฆบูชา	Makha Bucha Day
