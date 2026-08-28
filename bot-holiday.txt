@@ -37,3 +37,21 @@
 2026-12-07	ชดเชยวันคล้ายวันพระบรมราชสมภพ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ (วันเสาร์ที่ 5 ธันวาคม 2569)	Substitution for H.M. King Bhumibol Adulyadej the Great’s Birthday, National Day and Father’s Day (Saturday 5th December 2026)
 2026-12-10	วันรัฐธรรมนูญ	Constitution Day
 2026-12-31	วันสิ้นปี	New Year’s Eve
+2027-01-01	วันขึ้นปีใหม่	New Year’s Day
+2027-02-22	ชดเชยวันมาฆบูชา (วันอาทิตย์ที่ 21 กุมภาพันธ์ 2570)	Substitution for Makha Bucha Day (Sunday 21st February 2027)
+2027-04-06	วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช และวันที่ระลึกมหาจักรีบรมราชวงศ์	Chakri Memorial Day
+2027-04-13	วันสงกรานต์	Songkran Festival
+2027-04-14	วันสงกรานต์	Songkran Festival
+2027-04-15	วันสงกรานต์	Songkran Festival
+2027-05-03	ชดเชยวันแรงงานแห่งชาติ (วันเสาร์ที่ 1 พฤษภาคม 2570)	Substitution for National Labor Day (Saturday 1st May 2027)
+2027-05-04	วันฉัตรมงคล	Coronation Day
+2027-05-20	วันวิสาขบูชา	Visakha Bucha Day
+2027-06-03	วันเฉลิมพระชนมพรรษา สมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี	H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday
+2027-07-19	ชดเชยวันอาสาฬหบูชา (วันอาทิตย์ที่ 18 กรกฎาคม 2570)	Substitution for Asarnha Bucha Day (Sunday 18th July 2027)
+2027-07-28	วันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระเจ้าอยู่หัว	H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday
+2027-08-12	วันคล้ายวันพระราชสมภพ สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ	H.M. Queen Sirikit the Queen Mother’s Birthday Anniversary and National Mother’s Day
+2027-10-13	วันนวมินทรมหาราช	H.M. King Bhumibol Adulyadej the Great Memorial Day
+2027-10-25	ชดเชยวันปิยมหาราช (วันเสาร์ที่ 23 ตุลาคม 2570)	Substitution for H.M. King Chulalongkorn the Great Memorial Day (Saturday 23rd October 2027)
+2027-12-06	ชดเชยวันคล้ายวันพระบรมราชสมภพพระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ (วันอาทิตย์ที่ 5 ธันวาคม 2570)	Substitution for H.M. King Bhumibol Adulyadej the Great’s Birthday, National Day and Father’s Day (Sunday 5th December 2027)
+2027-12-10	วันรัฐธรรมนูญ	Constitution Day
+2027-12-31	วันสิ้นปี	New Year’s Eve
